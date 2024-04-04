@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hhfunny
+- 👋 Hi, I’m *alek*
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning React
 - 📫 How to reach me: YOU CANT, IM EVERYWHERE
